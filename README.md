@@ -1,6 +1,5 @@
 how to install:
-
-this API connects from your habbo retro client with the VPS or dedicated server, you must put the javascript file inside the folder where you have your server files. works with Xampp/ IIS After doing that, restart the emulator and you will notice the difference remember that this is version v1 soon there will be improvements (:
+This api was cracked from the source code of the unity client from habbo.es and modified to be able to connect it to your server.
 
 Steps to make the api work correctly:
 
@@ -14,4 +13,5 @@ turn on the emulator (everything must be correctly configured)
 
 enjoy (=
 
-developed by Cyb3RPunK11 for open source purposes.
+cracked and reversing by @GeTCYb3rPuNK11
+
