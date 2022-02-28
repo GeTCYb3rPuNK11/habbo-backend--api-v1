@@ -1,5 +1,5 @@
 how to install:
-This api was cracked from the source code of the unity client from habbo.es and modified to be able to connect it to your server.
+
 
 Steps to make the api work correctly:
 
